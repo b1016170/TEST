@@ -29,3 +29,4 @@ colorscheme molokai
 
 set guifont=Osaka-等幅\ 16
 set linespace=0
+"unko"
